@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# TEMPO
 
-You can use the [editor on GitHub](https://github.com/gutmate/tempo/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gutmate/tempo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* Larghissimo — very, very slow (20 bpm and below) 매우 매우 느리게
+* Grave — slow and solemn (20-40 bpm) 느리면서 장엄하게
+* __Lento — slowly (40–60 bpm) 느리게__
+* Largo — broadly (40–60 bpm) 느리면서 당당하게[장중하게]
+* Larghetto — rather broadly (60–66 bpm)
+* Adagio — slow and stately (literally, "at ease") (66–76 bpm) 느리게, 느리면서 편안하고 안정되게
+* Adagietto — rather slow (70–80 bpm) 꽤 느리게
+* Andante Moderato — a bit slower than andante 안단테 보다 약간 느리게
+* __Andante — at a walking pace (76–108 bpm) 걷는 속도로 천천히__
+* Andantino – slightly faster than andante 안단테보다 약간 빠르게
+* __Moderato — moderately (101-110 bpm) 보통 빠르기로__
+* Allegretto — moderately fast (but less so than allegro) 약간 빠르게 (알레그로보다는 덜 빠르게)
+* Allegro moderato — moderately quick (112–124 bpm) 적당히 빠르게
+* __Allegro — fast, quickly and bright (120–139 bpm) 빠르고, 경쾌하게__
+* Vivace — lively and fast (˜140 bpm) (quicker than allegro) 활기차면서 빠르게
+* Vivacissimo — very fast and lively 매우 빠르고 활기차게
+* Allegrissimo — very fast
+* Presto — very fast (168–200 bpm) 매우 빠르게 (프레스토)
+* Prestissimo — extremely fast (more than 200bpm)
